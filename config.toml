@@ -2,6 +2,3 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Iliyass Hamza"
 theme = "anubis"
-
-[Author]
-  name = "Iliyass Hamza"
